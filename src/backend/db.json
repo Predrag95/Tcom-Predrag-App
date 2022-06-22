@@ -1,0 +1,92 @@
+{
+  "auth": [
+    {
+      "id": 123,
+      "username": "pedja",
+      "password": "pedja123"
+    },
+    {
+      "id": 9432,
+      "username": "danilo",
+      "password": "tcom"
+    }
+  ],
+  "users": {
+    "123": {
+      "name": "Predrag Lazic",
+      "img": "https://media-exp2.licdn.com/dms/image/C4D03AQEDa0BR9B-jRA/profile-displayphoto-shrink_800_800/0/1642609202303?e=1661385600&v=beta&t=NetTn4bYEdiUNz7Q1uT8ocHzOJ-T7j1DVXjPbrUkbMk",
+      "twitter": "@predragTcom"
+    },
+    "9432": {
+      "name": "Danilo Lukić",
+      "img": "https://media-exp2.licdn.com/dms/image/C4E03AQFKvpIypXBRyw/profile-displayphoto-shrink_800_800/0/1561510564059?e=1661385600&v=beta&t=efG07kDSdAGCa5GUEUA98eaS5bylTVY1VItM0W7WOJQ",
+      "twitter": "@daniloTcom"
+    }
+  },
+  "companies": [
+    {
+      "id": "1",
+      "name": "Tcom",
+      "email": "tcom@com.rs",
+      "created": "Predrag Lazic",
+      "updated": "Predrag Lazic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "2",
+      "name": "Nordeus",
+      "email": "nordeusg@nordeus.rs",
+      "created": "Predrag Lazic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "3",
+      "name": "Ubisoft",
+      "email": "ubisoft@yahoo.com",
+      "created": "Predrag Lazic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "4",
+      "name": "Apple",
+      "email": "apple@gmail.com",
+      "created": "Predrag Lazic",
+      "updated": "Predrag Lazic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "5",
+      "name": "Activision",
+      "email": "activision@gmail.rs",
+      "created": "Danilo Lukic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "6",
+      "name": "Guy Hawkins",
+      "email": "guy.hawkins@mail.com",
+      "created": "Danilo Lukic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "7",
+      "name": "Tehnomanija",
+      "email": "tehnomanija@ggmail.rs",
+      "created": "Danilo Lukic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    },
+    {
+      "id": "8",
+      "name": "Ferrari",
+      "email": "ferrarig@yahoo.com",
+      "created": "Danilo Lukic",
+      "updated": "Danilo Lukic",
+      "date": "Jun 21, 2022, 9:33 AM"
+    }
+  ]
+}
